@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1557481092210,
+  "timestamp": 1611833663937,
   "index": "/dashboard",
   "assetGroups": [
     {
@@ -31,6 +31,7 @@
         "/assets/img/faces/2",
         "/assets/img/faces/3",
         "/assets/img/faces/4",
+        "/assets/img/faces/5",
         "/assets/img/faces/marc.jpg",
         "/assets/img/favicon-16x16.png",
         "/assets/img/favicon-32x32.png",
@@ -148,7 +149,8 @@
     "/assets/img/faces/2": "b8714d2886f5b166f02557b8857e4cf1745c01f2",
     "/assets/img/faces/3": "01d0a57476f2e62c93b434c3acf50152ccf20720",
     "/assets/img/faces/4": "a91aa3473c8c7ce5c96acaa67d2b0f2b7fb5865e",
-    "/assets/img/faces/marc.jpg": "de116ddb17a28ed39b6445e1e3dc35f5e905e4e5",
+    "/assets/img/faces/5": "de116ddb17a28ed39b6445e1e3dc35f5e905e4e5",
+    "/assets/img/faces/marc.jpg": "746b0f79ad226e9b3511f1a3f073c20760c3bb7c",
     "/assets/img/favicon-16x16.png": "cd4d14fbb5f272a7712c69a101bdf4a0ea3b784f",
     "/assets/img/favicon-32x32.png": "220d82c7cd40d7a28f73fcc3d68e633196277b36",
     "/assets/img/favicon.ico": "2e9a63b4584d57a4aed3136e84019b19463a06a6",
@@ -205,7 +207,7 @@
     "/assets/scss/core/mixins/_chartist.scss": "123b7afc9093bb93b5e0e504f703ef6a77d59026",
     "/assets/scss/core/mixins/_colored-shadows.scss": "eac4b7dab92df713c6b099d9cbf3d140a9d77ddb",
     "/assets/scss/core/mixins/_drawer.scss": "3539711756d7a3f488d1ed3e3f073522e0155579",
-    "/assets/scss/core/mixins/_forms.scss": "df45c22378b34628dae246d75be5b48abeb8f18d",
+    "/assets/scss/core/mixins/_forms.scss": "6221105866ac868d430b23bc3ce238bb1399a64a",
     "/assets/scss/core/mixins/_hover.scss": "7087a0c9d77b4753bf48f0d436f1b86795375506",
     "/assets/scss/core/mixins/_layout.scss": "2db9e71666cb730e9572c03c6eed3cbe41e07da4",
     "/assets/scss/core/mixins/_navbar-colors.scss": "0d2e8cfecea9252995bba75cab26605deefdbe49",
@@ -247,7 +249,7 @@
     "/assets/scss/core/variables/_type.scss": "d382ab8705546b30d3768ed3ebcfb11ebe0736a7",
     "/assets/scss/material-dashboard.scss": "0e95197beff66c369497a4d20e637f23862deb71",
     "/favicon.ico": "2e9a63b4584d57a4aed3136e84019b19463a06a6",
-    "/index.html": "63cb309587d16a2cbeb42f1d8a41e9cc2a31ff2b"
+    "/index.html": "c3beabeb40d11ed9b04ea3e77de476795ed07926"
   },
   "navigationUrls": [
     {
