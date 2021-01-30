@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1612008833121,
+  "timestamp": 1612010664749,
   "index": "/dashboard",
   "assetGroups": [
     {
@@ -172,7 +172,7 @@
     "/assets/scss/core/_checkboxes.scss": "c90763dcd9428265e8c88a2e4f39ac0fe084611b",
     "/assets/scss/core/_dropdown.scss": "ce47505e7fa39f5b199ba9d7f512a41225b20bb0",
     "/assets/scss/core/_example-pages.scss": "1f310cac08f870eec28de5781937e1129cc6b23a",
-    "/assets/scss/core/_fixed-plugin.scss": "cfa0d4f1e5ee98bf612c813e3164ab4f3b26c2a9",
+    "/assets/scss/core/_fixed-plugin.scss": "a7dad23f13ca00f0d7e789ec0a55a0adabbdd7ae",
     "/assets/scss/core/_footers.scss": "b6592b5dca522978909df4316cf629b73bf9dbf6",
     "/assets/scss/core/_forms.scss": "dae74b6d284d126ba1c0b6aaa48f71009f7733da",
     "/assets/scss/core/_images.scss": "f81dcc57752abc1c08e9fd07848c76f26ac33815",
@@ -185,7 +185,7 @@
     "/assets/scss/core/_radios.scss": "c43e16cdf25714a543b7ed4e5816ee5445d96b5a",
     "/assets/scss/core/_responsive.scss": "df06bb52a6e296a34297b1c8985a39640895cf5d",
     "/assets/scss/core/_ripples.scss": "f801e64c26f48b334f68eddfb3cde22a4d71efdd",
-    "/assets/scss/core/_sidebar-and-main-panel.scss": "a7e6339625ee37af6d8bdde1a248f82a092e97ae",
+    "/assets/scss/core/_sidebar-and-main-panel.scss": "7a7e1573d890f182f602b796fad9d1b46b5f131e",
     "/assets/scss/core/_tables.scss": "51e7cde076d86168bc95b6475c40b716a49999ea",
     "/assets/scss/core/_tabs.scss": "48121b926c5701d02d15773a39fae7c02843595e",
     "/assets/scss/core/_togglebutton.scss": "d623a2d8fd3e552a346bd314aeb74ecb4113eef5",
@@ -243,7 +243,7 @@
     "/assets/scss/core/variables/_type.scss": "d382ab8705546b30d3768ed3ebcfb11ebe0736a7",
     "/assets/scss/material-dashboard.scss": "6654519a35ca86dcc527f8341d2b16e3574a9303",
     "/favicon.ico": "2e9a63b4584d57a4aed3136e84019b19463a06a6",
-    "/index.html": "8350b74aa929cc241a07596566149e20d0631c1c"
+    "/index.html": "fbd135ec934b4e04e1c4f9ca02ae5bcb68f79298"
   },
   "navigationUrls": [
     {
