@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1612001838625,
+  "timestamp": 1612008833121,
   "index": "/dashboard",
   "assetGroups": [
     {
@@ -18,7 +18,6 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/assets/css/demo.css",
         "/assets/img/android-chrome-192x192.png",
         "/assets/img/android-chrome-384x384.png",
         "/assets/img/angular2-logo-red.png",
@@ -52,7 +51,6 @@
         "/assets/img/stackoverflow-icon.svg",
         "/assets/img/tim_80x80.png",
         "/assets/img/twitter-icon.svg",
-        "/assets/js/twitter.js",
         "/assets/scss/core/_alerts.scss",
         "/assets/scss/core/_buttons.scss",
         "/assets/scss/core/_cards.scss",
@@ -86,7 +84,6 @@
         "/assets/scss/core/mixins/_animations.scss",
         "/assets/scss/core/mixins/_breakpoints.scss",
         "/assets/scss/core/mixins/_buttons.scss",
-        "/assets/scss/core/mixins/_chartist.scss",
         "/assets/scss/core/mixins/_colored-shadows.scss",
         "/assets/scss/core/mixins/_drawer.scss",
         "/assets/scss/core/mixins/_forms.scss",
@@ -136,7 +133,6 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/css/demo.css": "757d9ccb45a61c9989320e0e335151da3f309656",
     "/assets/img/android-chrome-192x192.png": "53167f815faf93d4d924473072f66eef05173869",
     "/assets/img/android-chrome-384x384.png": "0de6f911ef17e7c9bdbaf1e1880700673e189f8e",
     "/assets/img/angular2-logo-red.png": "8dd6dae070f738c798d6d9dfa2cfef90e0f5b5ed",
@@ -170,7 +166,6 @@
     "/assets/img/stackoverflow-icon.svg": "e9e5046a3bbf3d0a8ada121e141aaba1d5c699f7",
     "/assets/img/tim_80x80.png": "5cb5cedd481200b89f5e9e4443e1958c8c5fbc28",
     "/assets/img/twitter-icon.svg": "9910cdc36eccd976059ed7b3eabdd6c6125992ac",
-    "/assets/js/twitter.js": "56cdeff20c9ecbb87683fcc79fa45f18ba2d989f",
     "/assets/scss/core/_alerts.scss": "08ec58d9002dedf93e66ef399e854511f168a55d",
     "/assets/scss/core/_buttons.scss": "8ab4604da39316c7fef4ce1e91e0ac5df47dea17",
     "/assets/scss/core/_cards.scss": "788431e50bdc99f1b0bf09c0b06efae19428eef9",
@@ -204,10 +199,9 @@
     "/assets/scss/core/mixins/_animations.scss": "89e3de24662281e177b82d5781c647205ebea46c",
     "/assets/scss/core/mixins/_breakpoints.scss": "f992337a177b227650d5214f047a267c052e926d",
     "/assets/scss/core/mixins/_buttons.scss": "eb4576d811b35183fab7f84cecbc6c80b009e1f0",
-    "/assets/scss/core/mixins/_chartist.scss": "123b7afc9093bb93b5e0e504f703ef6a77d59026",
     "/assets/scss/core/mixins/_colored-shadows.scss": "eac4b7dab92df713c6b099d9cbf3d140a9d77ddb",
     "/assets/scss/core/mixins/_drawer.scss": "3539711756d7a3f488d1ed3e3f073522e0155579",
-    "/assets/scss/core/mixins/_forms.scss": "6221105866ac868d430b23bc3ce238bb1399a64a",
+    "/assets/scss/core/mixins/_forms.scss": "f5fcabeda00ade0be77472e06ee921921728ad13",
     "/assets/scss/core/mixins/_hover.scss": "7087a0c9d77b4753bf48f0d436f1b86795375506",
     "/assets/scss/core/mixins/_layout.scss": "2db9e71666cb730e9572c03c6eed3cbe41e07da4",
     "/assets/scss/core/mixins/_navbar-colors.scss": "0d2e8cfecea9252995bba75cab26605deefdbe49",
@@ -223,7 +217,7 @@
     "/assets/scss/core/plugins/_perfect-scrollbar.scss": "dd5f31abbe1c9aeadb9e47e5290f4c2334eca483",
     "/assets/scss/core/variables/_body.scss": "82ec9f23fbcf0ca2cd4eae73082328655feaf05b",
     "/assets/scss/core/variables/_bootstrap-material-design-base.scss": "27dae7550776198b95e7b34b2965717048037920",
-    "/assets/scss/core/variables/_bootstrap-material-design.scss": "f993bf6c47aa39bdd31533d9ef16f5cfb71c29bc",
+    "/assets/scss/core/variables/_bootstrap-material-design.scss": "38ad850dc7dfce80d58f9068c03b6162e785cb01",
     "/assets/scss/core/variables/_brand.scss": "bbd56d101f2a3934548f441d217b1002ed92adf6",
     "/assets/scss/core/variables/_buttons.scss": "04c3f9b2edf36df8ba0cbb94b9e3e0d48d26c6c2",
     "/assets/scss/core/variables/_card.scss": "d0036ab5a27c9af14be9089f80f5664fae3b5330",
@@ -233,7 +227,7 @@
     "/assets/scss/core/variables/_custom-forms.scss": "fd2e21abdd12336c2e414813ae9e208d4e647121",
     "/assets/scss/core/variables/_drawer.scss": "b1608a768793591b9fe77c41e9a080748bd3358d",
     "/assets/scss/core/variables/_dropdown.scss": "f7f153815e6d5607a358dda7f3a90d85b89f2e4f",
-    "/assets/scss/core/variables/_forms.scss": "c368633b6c42a34c30f2aba21ef135485aed1ebb",
+    "/assets/scss/core/variables/_forms.scss": "e28e7e176b84354117a581a6ce52d2f79c8ddf71",
     "/assets/scss/core/variables/_layout.scss": "40758630c8ff5a67f5d7b9f0a5e695b98dae9068",
     "/assets/scss/core/variables/_list-group.scss": "e31b596f6d5322dc6d8cc8ad4f1fe3d954e9d690",
     "/assets/scss/core/variables/_menu.scss": "6483e042b793e39a2dc454ffcee1ab1c24eab089",
@@ -247,9 +241,9 @@
     "/assets/scss/core/variables/_tables.scss": "80ccb8f866404c4c96d065cb59c9ea5484d6aa7d",
     "/assets/scss/core/variables/_tooltip.scss": "3957c6a4868a9cd5afad52f49ae28f979d96cab8",
     "/assets/scss/core/variables/_type.scss": "d382ab8705546b30d3768ed3ebcfb11ebe0736a7",
-    "/assets/scss/material-dashboard.scss": "0e95197beff66c369497a4d20e637f23862deb71",
+    "/assets/scss/material-dashboard.scss": "6654519a35ca86dcc527f8341d2b16e3574a9303",
     "/favicon.ico": "2e9a63b4584d57a4aed3136e84019b19463a06a6",
-    "/index.html": "c3beabeb40d11ed9b04ea3e77de476795ed07926"
+    "/index.html": "8350b74aa929cc241a07596566149e20d0631c1c"
   },
   "navigationUrls": [
     {
